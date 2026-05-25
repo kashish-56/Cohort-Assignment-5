@@ -17,6 +17,17 @@ https://github.com/user-attachments/assets/5eff44cf-7769-431d-a2cb-d71fd95f7ccc
 
 ---
 
+## 📸 Screenshots 
+[Demo GIF](
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c9846453-247f-450a-aa80-2af2045fd9e2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dc8a8648-83fa-417b-a804-5fe6778288ad" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7a6e8e66-8d7e-4ead-9267-8b0316bf492d" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/22ae9a74-e775-458d-a421-4ea224ade177" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e58a1b54-81ac-4e1d-a73c-6a7083582a97" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/93a6c65e-3436-4c91-b708-a3a9d955746c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ccc9e630-f8dd-42d2-a0ed-0035117aa158" />
+)
+
 ## 📖 Overview
 
 This project was developed to practice frontend web development concepts including layout design, typography, spacing, positioning, Flexbox, Grid, and modern CSS styling techniques.
@@ -68,21 +79,6 @@ project/
 ```
 
 ---
-
-## 📸 Screenshots
-
-### Home Page
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c9846453-247f-450a-aa80-2af2045fd9e2" />
-
-### Project Preview
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dc8a8648-83fa-417b-a804-5fe6778288ad" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7a6e8e66-8d7e-4ead-9267-8b0316bf492d" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/22ae9a74-e775-458d-a421-4ea224ade177" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e58a1b54-81ac-4e1d-a73c-6a7083582a97" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/93a6c65e-3436-4c91-b708-a3a9d955746c" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ccc9e630-f8dd-42d2-a0ed-0035117aa158" />
 
 ## 🚀 Getting Started
 
