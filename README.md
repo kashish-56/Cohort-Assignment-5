@@ -14,15 +14,27 @@ https://youtu.be/mPxX1E9XKvQ
 
 <img width="1366" height="768" alt="Homepage" src="https://github.com/user-attachments/assets/c9846453-247f-450a-aa80-2af2045fd9e2" />
 
+<--------⭐⭐⭐-------->
+
 <img width="1366" height="768" alt="Section 1" src="https://github.com/user-attachments/assets/dc8a8648-83fa-417b-a804-5fe6778288ad" />
+
+<--------⭐⭐⭐-------->
 
 <img width="1366" height="768" alt="Section 2" src="https://github.com/user-attachments/assets/7a6e8e66-8d7e-4ead-9267-8b0316bf492d" />
 
+<--------⭐⭐⭐-------->
+
 <img width="1366" height="768" alt="Section 3" src="https://github.com/user-attachments/assets/22ae9a74-e775-458d-a421-4ea224ade177" />
+
+<--------⭐⭐⭐-------->
 
 <img width="1366" height="768" alt="Section 4" src="https://github.com/user-attachments/assets/e58a1b54-81ac-4e1d-a73c-6a7083582a97" />
 
+<--------⭐⭐⭐-------->
+
 <img width="1366" height="768" alt="Section 5" src="https://github.com/user-attachments/assets/93a6c65e-3436-4c91-b708-a3a9d955746c" />
+
+<--------⭐⭐⭐-------->
 
 <img width="1366" height="768" alt="Footer" src="https://github.com/user-attachments/assets/ccc9e630-f8dd-42d2-a0ed-0035117aa158" />
 
