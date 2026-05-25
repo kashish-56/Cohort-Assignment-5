@@ -6,7 +6,7 @@ A visually appealing frontend web project built using **HTML5** and **CSS3**. Th
 
 ## 🎥 Demo Video
 
-https://github.com/user-attachments/assets/5eff44cf-7769-431d-a2cb-d71fd95f7ccc
+https://youtu.be/mPxX1E9XKvQ
 
 ---
 
