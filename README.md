@@ -12,6 +12,8 @@ https://youtu.be/mPxX1E9XKvQ
 
 ## 📸 Screenshots
 
+<--------⭐⭐⭐-------->
+
 <img width="1366" height="768" alt="Homepage" src="https://github.com/user-attachments/assets/c9846453-247f-450a-aa80-2af2045fd9e2" />
 
 <--------⭐⭐⭐-------->
