@@ -36,7 +36,8 @@ https://youtu.be/mPxX1E9XKvQ
 
 <--------⭐⭐⭐-------->
 
-<img width="1366" height="768" alt="Footer" src="https://github.com/user-attachments/assets/ccc9e630-f8dd-42d2-a0ed-0035117aa158" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/47b35684-4745-4ef4-a10c-ca0e8dc5c860" />
+
 
 ---
 
