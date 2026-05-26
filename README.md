@@ -6,13 +6,16 @@ A visually appealing frontend web project built using **HTML5** and **CSS3**. Th
 
 ## 🎥 Demo Video
 
-https://youtu.be/mPxX1E9XKvQ
+https://youtu.be/YOqAmzeycZU
 
 ---
 
 ## 📸 Screenshots
 
-<img width="1366" height="768" alt="Homepage" src="https://github.com/user-attachments/assets/c9846453-247f-450a-aa80-2af2045fd9e2" />
+<--------⭐⭐⭐-------->
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b8216b7d-3d65-4320-9783-bf2d3db86b91" />
+
 
 <--------⭐⭐⭐-------->
 
@@ -36,8 +39,7 @@ https://youtu.be/mPxX1E9XKvQ
 
 <--------⭐⭐⭐-------->
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/47b35684-4745-4ef4-a10c-ca0e8dc5c860" />
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8b9819e8-c4de-4c04-b58f-abf1c31eae5a" />
 
 ---
 
